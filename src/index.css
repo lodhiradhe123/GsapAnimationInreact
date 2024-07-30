@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+button{
+  margin: 90px;
+  padding: 10px 20px ;
+  border: none;
+  font-size: 30px;
+  color: black;
+  position: absolute;
+  left:50%;
+  z-index: 99;
+
+}
+
+img{
+  height: 150px;
+  position: absolute;
+}
